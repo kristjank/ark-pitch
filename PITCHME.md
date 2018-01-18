@@ -11,13 +11,14 @@ Point.Click.Blockchain
 
 <span class="byline">[ www.ark.io, github.com/ArkEcosystem ]</span>
 
-------?image=images/blockchain.png
+---?image=images/blockchain.png
 
 @title[What is ARK]
 
 # What is ARK?
 - cryptocurrency
 - ecosystem
+
 
 ---
 
