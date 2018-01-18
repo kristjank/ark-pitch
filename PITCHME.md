@@ -1,10 +1,10 @@
 @title[Introduction]
 
 
-![ARK Logo](/assets/images/logo.png)
+![ARK Logo](/assets/images/pointclickbc.png)
 <br>
 <br>
-##### Push.Button.Deployable Blockchains.*
+##### ALL-in-One Blockchain solutions
 <span class="byline">[ www.ark.io, github.com/ArkEcosystem ]</span>
 
 ---
