@@ -8,7 +8,7 @@
 <br>
 <span class="byline">[ www.ark.io, github.com/ArkEcosystem ]</span>
 
----?image=assets/bg.jpg
+---?image=images/bg.jpg
 
 @title[PITCHME.md]
 
