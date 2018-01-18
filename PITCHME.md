@@ -1,7 +1,7 @@
 @title[Introduction]
 
 
-![ARK Logo](/assets/images/pointclickbc.png)
+![ARK Logo](/images/pointclickbc.png)
 <br>
 <br>
 ##### ALL-in-One Blockchain solutions
